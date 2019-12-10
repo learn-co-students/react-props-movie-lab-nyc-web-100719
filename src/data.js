@@ -44,7 +44,7 @@ const movieData = [
   },
   {
     title: 'Terrance: King of the Rats',
-    IMDBRating: 1,
+    IMDBRating: null,
     genres: ['drama'],
     poster: 'terrance-king'
   },
